@@ -14,7 +14,8 @@ Notebook de estudos dinâmico voltado à revisão consolidada de desenvolvimento
 
 A arquitetura do repositório segue uma organização modular e limpa para os recursos visuais:
 
-```text
+hub-ma
+|
 ├── assets/
 │   ├── icons/       # Ícones e logotipos em vetor
 │   └── img/         # Imagens gerais e capturas de tela
