@@ -1,10 +1,8 @@
-# Hub ma - Revisão de HTML e CSS
+# Hub MA - Revisão de HTML e CSS
 
 ## 🚀 Tecnologias e Padrões
 
 Notebook de estudos dinâmico voltado à revisão consolidada de desenvolvimento front-end, focado em semântica estrutural e responsividade.
-
-## 🚀 Tecnologias e Padrões
 
 - **HTML5 Semântico:** Estrutura limpa, acessível e otimizada para motores de busca (SEO).
 - **CSS3 Moderno:** Reset baseado na proporção de `62.5%` para escalabilidade com unidades `rem`.
@@ -14,8 +12,8 @@ Notebook de estudos dinâmico voltado à revisão consolidada de desenvolvimento
 
 A arquitetura do repositório segue uma organização modular e limpa para os recursos visuais:
 
+```text
 hub-ma
-|
 ├── assets/
 │   ├── icons/       # Ícones e logotipos em vetor
 │   └── img/         # Imagens gerais e capturas de tela
